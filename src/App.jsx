@@ -72,9 +72,7 @@ function App() {
           <p className="text-muted-foreground mb-2 text-sm">
             © {new Date().getFullYear()} Bommisetti Venkata Bala Sai Naga Sowmya
           </p>
-          <p className="text-xs text-muted-foreground">
-            Built with ❤️ using React & Tailwind CSS
-          </p>
+
         </div>
       </footer>
     </div>
