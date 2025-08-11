@@ -41,6 +41,13 @@ const projects = [
     tags: ['Java', 'Spring Boot', 'Spring AI'],
     github: 'https://github.com/Sowmyabvbsn/spring-ai-chatbot',
     featured: false,
+  },
+  {
+    title: 'SmartWallet',
+    description: 'A financial management application that leverages AI technology to transform how you manage your finances.',
+    tags: ['React.js', 'Google Gemini AI'],
+    github: 'https://github.com/Sowmyabvbsn/SmartWallet',
+    featured: true,
   }
 ];
 
