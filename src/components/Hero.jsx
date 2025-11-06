@@ -95,7 +95,7 @@ const Hero = () => {
           className="grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-xl mx-auto"
         >
           <div className="text-center">
-            <div className="text-2xl font-bold text-primary mb-1">400+</div>
+            <div className="text-2xl font-bold text-primary mb-1">550+</div>
             <div className="text-xs text-muted-foreground">LeetCode Problems</div>
           </div>
           <div className="text-center">
