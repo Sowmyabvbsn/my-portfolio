@@ -55,7 +55,7 @@ export function About() {
             <div className="flex flex-wrap gap-2 justify-center">
               <Badge variant="soft" className="text-xs">
                 <Zap className="w-3 h-3 mr-1" />
-                400+ LeetCode Problems
+                550+ LeetCode Problems
               </Badge>
               <Badge variant="soft" className="text-xs">
                 <Code2 className="w-3 h-3 mr-1" />
