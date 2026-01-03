@@ -48,6 +48,20 @@ const projects = [
     tags: ['React.js', 'Google Gemini AI'],
     github: 'https://github.com/Sowmyabvbsn/SmartWallet',
     featured: true,
+  },
+  {
+    title: 'Card Game Simulator',
+    description: 'A multi-threaded implementation of the Set Card Game - a real-time pattern recognition game where players compete to identify valid sets of three cards from a shared table.',
+    tags: ['Java','Java Swing'],
+    github: 'https://github.com/Sowmyabvbsn/CardGameSimulator',
+    featured: true,
+  },
+  {
+    title: 'Operating Systems Simulator',
+    description: 'A Web-Based Educational Tool for Virtual Memory Management and Multithreading Concepts',
+    tags: ['React.js','Java','Spring Boot'],
+    github: 'https://github.com/Sowmyabvbsn/virtual-memory-simulator',
+    featured: true,
   }
 ];
 
